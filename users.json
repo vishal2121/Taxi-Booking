@@ -1,1 +1,47 @@
-
+[
+  {
+    "id": 1,
+    "name": "Vishal Ubale",
+    "username": "Vish",
+    "email": "ubale.vishal50@gmail.com",
+    "address": {
+      "street": "Florida DC",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "9021602121",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Geetanjali Kale",
+    "username": "Geetuda",
+    "email": "ubale.geeta50@gmail.com",
+    "address": {
+      "street": "Theargaon",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
+    "phone": "9021402121",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist",
+      "catchPhrase": "Proactive didactic contingency",
+      "bs": "synergize scalable supply-chains"
+    }
+  },
